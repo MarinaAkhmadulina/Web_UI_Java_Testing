@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import ru.geekbrains.homeworks.tests.BaseTest;
 
 @DisplayName("Поиск автора")
 public class SearchAuthorTest extends BaseTest {

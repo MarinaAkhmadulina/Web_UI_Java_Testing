@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import ru.geekbrains.homeworks.tests.BaseTest;
 
 @DisplayName("Добавление книги в список для чтения")
 public class AddBookToReadingListTest extends BaseTest {
